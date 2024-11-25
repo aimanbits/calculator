@@ -3,7 +3,7 @@ int main(){
 int a,b,c;
 cin>>a>>b>>c;
 if(a>b){
-if(a>c)
+if(a>c) //checking maximum
 max=a;}
 else
 {
