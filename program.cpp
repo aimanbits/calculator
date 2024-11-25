@@ -7,7 +7,7 @@ if(a>c) //checking maximum
 max=a;}
 else
 {
-if(b>c)
+if(b>c) //checking
 max=b;
 else
 max=c;
